@@ -6,8 +6,7 @@ This repository contains a data-driven business performance evaluation focusing 
 
 ## 🖼️ Dashboard Preview
 
-![Company Sales Dashboard](https://raw.githubusercontent.com/username/repository-name/main/dashboard.png)
-
+![Company Sales Dashboard](Screenshot%20(20).png)
 ## 💻 1. Product Performance & Commercial Strategy
 
 ### 🔎 Key Insights
