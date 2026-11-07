@@ -13,7 +13,7 @@ This repository contains a data-driven business performance evaluation focusing 
 
 * **Top Revenue & Profit Drivers:** **Laptops** ($30.9M) and **Projectors** ($20.9M) drive the highest overall sales volume and profitability.
 * **Core Categories:** **Electronics** ($73M) and **Office Equipment** ($36M) constitute the main baseline for business revenue.
-* **Low-Margin / Slow Accessories:** Items like **Mice** ($229K profit) and **USB Flash Drives** ($180K profit) move slowly when sold individually but represent clear bundling opportunities.
+- **Accessory Profitability:** **Mice** ($229K profit) and **USB Flash Drives** ($180K profit) generate positive profit margins of around 22–23%, with opportunities to increase sales through product bundling.
 
 ### 💡 Strategic Actions
 
@@ -23,6 +23,7 @@ This repository contains a data-driven business performance evaluation focusing 
 
 2. **Accessory Bundling Strategy:**
       - **Targeted Bundling:** Test offering **USB Flash Drives** and **Mice** with Laptop purchases to increase Average Order Value (AOV) and encourage additional sales.
+      - 
    * **Simple Bundle Offers:** Create simple packages pairing a Laptop with any of the four accessories: **Mouse, USB Flash Drive, Webcam, or Headphones**.
 
 3. **Flexible Customer Choice:**
