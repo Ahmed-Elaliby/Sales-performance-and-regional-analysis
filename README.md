@@ -21,8 +21,8 @@ This repository contains a data-driven business performance evaluation focusing 
    * Concentrate marketing budgets and supply allocation on **Laptops** and **Projectors**.
    * Leverage purchasing volume with suppliers to negotiate lower unit costs and improve product margins.
 
-2. **Accessory Bundling & Inventory Acceleration:**
-   * **Targeted Bundling:** Package **USB Flash Drives** ($180K profit) and **Mice** ($229K profit) directly with Laptop purchases to increase Average Order Value (AOV) and accelerate inventory turnover.
+2. **Accessory Bundling Strategy:**
+      - **Targeted Bundling:** Test offering **USB Flash Drives** and **Mice** with Laptop purchases to increase Average Order Value (AOV) and encourage additional sales.
    * **Simple Bundle Offers:** Create simple packages pairing a Laptop with any of the four accessories: **Mouse, USB Flash Drive, Webcam, or Headphones**.
 
 3. **Flexible Customer Choice:**
