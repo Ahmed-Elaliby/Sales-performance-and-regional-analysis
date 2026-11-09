@@ -7,23 +7,26 @@ This repository contains a data-driven business performance evaluation focusing 
 ## 🖼️ Dashboard Preview
 
 ![Company Sales Dashboard](Screenshot%20(20).png)
+
+---
+
 ## 💻 1. Product Performance & Commercial Strategy
 
-### 🔎 Key Insights
+### 📌 Core Business Question
+> **Which products have the best sales and profits, and which products should the company focus on to make more money?**
 
+### 🔎 Key Insights
 * **Top Revenue & Profit Drivers:** **Laptops** ($30.9M) and **Projectors** ($20.9M) drive the highest overall sales volume and profitability.
 * **Core Categories:** **Electronics** ($73M) and **Office Equipment** ($36M) constitute the main baseline for business revenue.
-- **Accessory Profitability:** **Mice** ($229K profit) and **USB Flash Drives** ($180K profit) generate positive profit margins of around 22–23%, with opportunities to increase sales through product bundling.
+* **Accessory Profitability:** **Mice** ($229K profit) and **USB Flash Drives** ($180K profit) generate positive profit margins of around 22–23%, with opportunities to increase sales through product bundling.
 
 ### 💡 Strategic Actions
-
 1. **Maximize High-Value Inventory:**
    * Concentrate marketing budgets and supply allocation on **Laptops** and **Projectors**.
    * Leverage purchasing volume with suppliers to negotiate lower unit costs and improve product margins.
 
 2. **Accessory Bundling Strategy:**
-      - **Targeted Bundling:** Test offering **USB Flash Drives** and **Mice** with Laptop purchases to increase Average Order Value (AOV) and encourage additional sales.
-      - 
+   * **Targeted Bundling:** Test offering **USB Flash Drives** and **Mice** with Laptop purchases to increase Average Order Value (AOV) and encourage additional sales.
    * **Simple Bundle Offers:** Create simple packages pairing a Laptop with any of the four accessories: **Mouse, USB Flash Drive, Webcam, or Headphones**.
 
 3. **Flexible Customer Choice:**
@@ -33,14 +36,15 @@ This repository contains a data-driven business performance evaluation focusing 
 
 ## 🌍 2. Regional Profitability & Operating Strategy
 
-### 🔎 Key Insights
+### 📌 Core Business Question
+> **Which region has the highest profitability, and what factors explain the differences in sales performance and profit margins across regions?**
 
+### 🔎 Key Insights
 * **Ismailia (Profit Benchmark):** Achieves the **highest overall profitability ($3.8M profit on $15.7M sales)** despite not having the highest top-line sales volume.
 * **Top Revenue Branches:** **Alexandria** ($16.1M), **Assiut** ($16.0M), and **Tanta** ($15.9M) lead overall sales performance.
 * **Cairo & Ismailia Furniture Sector:** Ismailia ($2.8M) and Cairo ($2.3M) show high Furniture sales against a combined cost structure of $4M.
 
 ### 💡 Strategic Actions
-
 1. **Optimizing Top Sales Branches (Alexandria, Tanta, Assiut):**
    * **Targeted Price Adjustment:** Implement a minor price increase (~3%) on Electronics and Office Equipment categories in these high-volume branches.
    * **Supplier Purchasing Power:** Utilize the large order volumes from these top branches to negotiate superior wholesale discounts from vendors to lower baseline costs.
